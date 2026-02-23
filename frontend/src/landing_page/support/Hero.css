@@ -1,0 +1,60 @@
+.support-hero {
+  background-color: #0f172a;
+  color: white;
+  padding-bottom: 60px;
+}
+
+.support-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 60px;
+}
+
+.support-header h4 {
+  font-weight: 600;
+}
+
+.support-header a {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.support-content {
+  padding: 40px 60px;
+}
+
+.support-left h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.support-input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.quick-links a {
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.support-right h2 {
+  margin-bottom: 20px;
+}
+
+.support-right a {
+  color: #cbd5e1;
+  text-decoration: none;
+}
+
+.support-right a:hover {
+  color: #38bdf8;
+}

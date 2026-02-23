@@ -1,0 +1,15 @@
+.pricing-main {
+  width: 100%;
+  padding: 80px 0;
+}
+
+.pricing-box {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.pricing-card {
+  border: 1px solid #000;
+  padding: 25px;
+  width: 45%;
+}

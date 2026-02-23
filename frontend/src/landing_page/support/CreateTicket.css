@@ -1,0 +1,32 @@
+.create-ticket {
+  padding: 60px 0;
+}
+
+.ticket-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease;
+}
+
+.ticket-card:hover {
+  transform: translateY(-5px);
+}
+
+.ticket-card h5 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.ticket-card a {
+  display: block;
+  text-decoration: none;
+  color: #2563eb;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.ticket-card a:hover {
+  color: #1e40af;
+}

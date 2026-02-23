@@ -1,0 +1,8 @@
+.stats-main {
+  width: 100%;          /* Full page width */
+  padding: 80px 0;      /* Top & bottom spacing */
+}
+
+.stats-image {
+  max-width: 90%;       /* Thoda controlled size */
+}
